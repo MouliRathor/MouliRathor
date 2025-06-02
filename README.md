@@ -34,8 +34,7 @@
 A simple yet effective attendance management application with features to:
 - ✅ update attendance  
 - ✏ Edit attendance
-- 📐 Save tasks persistently  
-- 🔄 Automatically loads tasks on startup  
+- shows attendance sequence vise  
 
 ![badge](https://img.shields.io/badge/🚀-More_Projects_Coming_Soon-orange?style=for-the-badge)
 
