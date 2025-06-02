@@ -1,21 +1,5 @@
 # Hi there, I'm Mouli Rathor! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Former+CodeSoft+Intern;PR+%26+Sponsorship+Head;Passionate+Programmer;Problem+Solver" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/krish_mishra_7/profilecard/?igsh=eHR5bG8waDFhb21u" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="32px"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/krish-mishra-45933a306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px"/>
-  </a>
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 *B.Tech CSE Student* heading into 2nd year  
@@ -36,7 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
-![After effects]
+![After effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 ### Soft Skills  
 - 🎯 *Leadership* – Leading teams and initiatives  
 - ⏰ *Time Management* – Efficient task prioritization  
@@ -46,10 +30,10 @@
 
 ## 📂 Featured Projects
 
-### 📌 Task Manager (Python)
-A simple yet effective task management application with features to:
-- ✅ Create and organize tasks  
-- ✏ Edit existing tasks  
+### 📌 attendance system (c)
+A simple yet effective attendance management application with features to:
+- ✅ update attendance  
+- ✏ Edit attendance
 - 📐 Save tasks persistently  
 - 🔄 Automatically loads tasks on startup  
 
@@ -59,9 +43,8 @@ A simple yet effective task management application with features to:
 
 ## 🏆 Achievements & Experience
 
-- 🏢 *CodeSoft Intern* – Gained hands-on experience with C programming  
 - 👥 *ACM Member* – Active participant in competitive programming community  
-- 📢 *PR & Sponsorship Head* – Leading outreach and partnership initiatives  
+- 📢 *Vfx Head* – Leading creative direction and execution of visual effects
 
 ---
 
